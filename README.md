@@ -1,20 +1,16 @@
-# new-git-repo-template
+# technik-specjalista.github.io
 
 ## Description
 
-The project contains basic files to the new git repository.
+The project contains the portfolio web page of Technik Specjalista.
 
 ## Motivation
 
-The projects has been created to easier setup new git repository.
-
-## Installation
-
-1. Clone repository from server.
+This page has been created to introduce myself and share knowledge with the community.
 
 ## Contributor
 
-Mateusz Piotrowski.
+Technik Specjalista
 
 ### License
 
